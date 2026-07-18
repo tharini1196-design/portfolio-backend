@@ -16,3 +16,6 @@
     "mongodb": "^7.5.0"
   }
 }
+"engines": {
+    "node": "20.x"
+}
